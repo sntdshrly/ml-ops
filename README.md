@@ -27,3 +27,18 @@ This repository is created for learning machine learning operations.
    ```
    python -m pip install --upgrade pip
    ```
+
+## Cara Membuka Notebook
+1. Buka Anaconda Prompt
+2. Pilih folder yang akan digunakan
+   ```
+   cd C:\Users\SHERLY SANTIADI\Documents\GitHub\ml-ops
+   ```
+3. Aktivasi virtual environment
+   ```
+   conda activate mlops-tfx
+   ```
+4. Buka jupyter notebook
+   ```
+   jupyter notebook
+   ```
